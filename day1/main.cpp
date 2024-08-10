@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    
     long fin = 0;
     vector<int> myVector;
 
